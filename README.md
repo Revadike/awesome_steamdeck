@@ -4,6 +4,9 @@ This repository is a list of resources for the [Steam Deck](https://www.steamdec
 
 ## Steam Deck information
 
+## Steam Curator
+ - [Steam Curator for steam games](https://store.steampowered.com/curator/41266960/)
+
 ## Youtube Reveal links
 
  - IGN, [Steam Deck FAQ: 31 Big Questions Answered](https://www.youtube.com/watch?v=h9eihvhM_KE)
